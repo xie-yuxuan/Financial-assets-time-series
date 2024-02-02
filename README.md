@@ -1,4 +1,4 @@
-### Time series analysis on 11 financial assets 
+# Time series analysis on 11 financial assets 
 
 ### Project objectives:
     - Import CSV file as a Pandas dataframe 
